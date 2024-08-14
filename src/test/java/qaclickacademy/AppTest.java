@@ -35,4 +35,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void ymethod()
+    {
+    	System.out.println("im commig from y method 1st");
+    	System.out.println("im commig from y method 2nd");
+    	System.out.println("im commig from y method 3rd");
+    }
 }
