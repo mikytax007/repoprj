@@ -56,4 +56,8 @@ public class AppTest
     {
     	System.out.println("im in addnewmethodtoXDevelop");
     }
+    public void simplyadded()
+    {
+    	System.out.println("im in simplyadded");
+    }
 }
