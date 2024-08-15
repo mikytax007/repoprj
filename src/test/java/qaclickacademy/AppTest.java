@@ -51,4 +51,9 @@ public class AppTest
     {
     	System.out.println("im in branch");
     }
+    
+    public void addnewmethodtoXDevelop()
+    {
+    	System.out.println("im in addnewmethodtoXDevelop");
+    }
 }
