@@ -46,4 +46,9 @@ public class AppTest
     	System.out.println("im commig from y method 5nd");
     	System.out.println("im commig from y method 6rd");
     }
+    
+    public void branchmethodofrepoprj()
+    {
+    	System.out.println("im in branch");
+    }
 }
